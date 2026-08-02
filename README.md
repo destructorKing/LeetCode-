@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/destructorKing/LeetCode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/destructorKing/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/destructorKing/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/destructorKing/LeetCode-/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/destructorKing/LeetCode-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/destructorKing/LeetCode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/destructorKing/LeetCode-/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
