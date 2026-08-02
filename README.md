@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/destructorKing/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/destructorKing/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/destructorKing/LeetCode-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/destructorKing/LeetCode-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/destructorKing/LeetCode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/destructorKing/LeetCode-/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/destructorKing/LeetCode-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/destructorKing/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/destructorKing/LeetCode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/destructorKing/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/destructorKing/LeetCode-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/destructorKing/LeetCode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/destructorKing/LeetCode-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/destructorKing/LeetCode-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/destructorKing/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/destructorKing/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/destructorKing/LeetCode-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
