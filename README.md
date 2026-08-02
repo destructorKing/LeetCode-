@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/destructorKing/LeetCode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/destructorKing/LeetCode-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/destructorKing/LeetCode-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/destructorKing/LeetCode-/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/destructorKing/LeetCode-/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/destructorKing/LeetCode-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/destructorKing/LeetCode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
