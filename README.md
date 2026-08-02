@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/destructorKing/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/destructorKing/LeetCode-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/destructorKing/LeetCode-/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/destructorKing/LeetCode-/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/destructorKing/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/destructorKing/LeetCode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/destructorKing/LeetCode-/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/destructorKing/LeetCode-/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
