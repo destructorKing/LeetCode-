@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/destructorKing/LeetCode-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/destructorKing/LeetCode-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/destructorKing/LeetCode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/destructorKing/LeetCode-/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/destructorKing/LeetCode-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/destructorKing/LeetCode-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
