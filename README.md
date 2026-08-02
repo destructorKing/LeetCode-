@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/destructorKing/LeetCode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/destructorKing/LeetCode-/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/destructorKing/LeetCode-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/destructorKing/LeetCode-/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
 | ------- |
