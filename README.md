@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/destructorKing/LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/destructorKing/LeetCode-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1929-concatenation-of-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/destructorKing/LeetCode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/destructorKing/LeetCode-/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/destructorKing/LeetCode-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/destructorKing/LeetCode-/tree/master/0796-rotate-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
