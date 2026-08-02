@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/destructorKing/LeetCode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/destructorKing/LeetCode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/destructorKing/LeetCode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/destructorKing/LeetCode-/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
