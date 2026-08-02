@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/destructorKing/LeetCode-/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/destructorKing/LeetCode-/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/destructorKing/LeetCode-/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/destructorKing/LeetCode-/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
