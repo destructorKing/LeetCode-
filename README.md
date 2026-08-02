@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/destructorKing/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/destructorKing/LeetCode-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/destructorKing/LeetCode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/destructorKing/LeetCode-/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/destructorKing/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/destructorKing/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/destructorKing/LeetCode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/destructorKing/LeetCode-/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/destructorKing/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/destructorKing/LeetCode-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/destructorKing/LeetCode-/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
