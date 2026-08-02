@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/destructorKing/LeetCode-/tree/master/1470-shuffle-the-array) |
+| [1929-concatenation-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/destructorKing/LeetCode-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/destructorKing/LeetCode-/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
