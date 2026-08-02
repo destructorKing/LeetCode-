@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/destructorKing/LeetCode-/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/destructorKing/LeetCode-/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/destructorKing/LeetCode-/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/destructorKing/LeetCode-/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
