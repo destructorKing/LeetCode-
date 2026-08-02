@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/destructorKing/LeetCode-/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/destructorKing/LeetCode-/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -23,8 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/destructorKing/LeetCode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/destructorKing/LeetCode-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/destructorKing/LeetCode-/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/destructorKing/LeetCode-/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/destructorKing/LeetCode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
