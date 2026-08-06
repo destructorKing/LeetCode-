@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/destructorKing/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/destructorKing/LeetCode-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/destructorKing/LeetCode-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/destructorKing/LeetCode-/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/destructorKing/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/destructorKing/LeetCode-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/destructorKing/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
