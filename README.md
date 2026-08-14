@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/destructorKing/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/destructorKing/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/destructorKing/LeetCode-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/destructorKing/LeetCode-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/destructorKing/LeetCode-/tree/master/0075-sort-colors) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/destructorKing/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/destructorKing/LeetCode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/destructorKing/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/destructorKing/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/destructorKing/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/destructorKing/LeetCode-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/destructorKing/LeetCode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/destructorKing/LeetCode-/tree/master/0191-number-of-1-bits) |
