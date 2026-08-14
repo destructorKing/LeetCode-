@@ -306,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/destructorKing/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/destructorKing/LeetCode-/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
