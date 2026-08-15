@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/destructorKing/LeetCode-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/destructorKing/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/destructorKing/LeetCode-/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/destructorKing/LeetCode-/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/destructorKing/LeetCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/destructorKing/LeetCode-/tree/master/0196-delete-duplicate-emails) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/destructorKing/LeetCode-/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
