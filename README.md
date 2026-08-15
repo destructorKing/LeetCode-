@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/destructorKing/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/destructorKing/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/destructorKing/LeetCode-/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/destructorKing/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/destructorKing/LeetCode-/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/destructorKing/LeetCode-/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/destructorKing/LeetCode-/tree/master/1528-shuffle-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/destructorKing/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [3731-find-missing-elements](https://github.com/destructorKing/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/destructorKing/LeetCode-/tree/master/3866-first-unique-even-element) |
 ## Linked List
