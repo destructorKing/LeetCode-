@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/destructorKing/LeetCode-/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/destructorKing/LeetCode-/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/destructorKing/LeetCode-/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/destructorKing/LeetCode-/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/destructorKing/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
