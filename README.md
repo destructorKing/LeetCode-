@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/destructorKing/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/destructorKing/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/destructorKing/LeetCode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/0206-reverse-linked-list) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/destructorKing/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/destructorKing/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/destructorKing/LeetCode-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/destructorKing/LeetCode-/tree/master/0190-reverse-bits) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/destructorKing/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -352,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/destructorKing/LeetCode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/destructorKing/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/destructorKing/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
