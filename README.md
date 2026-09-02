@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/destructorKing/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/destructorKing/LeetCode-/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/destructorKing/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/destructorKing/LeetCode-/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/destructorKing/LeetCode-/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/destructorKing/LeetCode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/destructorKing/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/destructorKing/LeetCode-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/destructorKing/LeetCode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -383,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/destructorKing/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/destructorKing/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/destructorKing/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
