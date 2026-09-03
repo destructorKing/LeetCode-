@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/destructorKing/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/destructorKing/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/destructorKing/LeetCode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/destructorKing/LeetCode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/destructorKing/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
+| [1207-unique-number-of-occurrences](https://github.com/destructorKing/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/destructorKing/LeetCode-/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/destructorKing/LeetCode-/tree/master/3731-find-missing-elements) |
