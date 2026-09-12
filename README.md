@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/destructorKing/LeetCode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/destructorKing/LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/destructorKing/LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/destructorKing/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/destructorKing/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/destructorKing/LeetCode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/destructorKing/LeetCode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/destructorKing/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/destructorKing/LeetCode-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/destructorKing/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/destructorKing/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
