@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/destructorKing/LeetCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/destructorKing/LeetCode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/destructorKing/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/destructorKing/LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/destructorKing/LeetCode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/destructorKing/LeetCode-/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
 ## String Matching
 |  |
 | ------- |
