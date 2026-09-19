@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/destructorKing/LeetCode-/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/destructorKing/LeetCode-/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
