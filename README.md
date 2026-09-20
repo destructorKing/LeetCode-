@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/destructorKing/LeetCode-/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/destructorKing/LeetCode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
