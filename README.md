@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/destructorKing/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/destructorKing/LeetCode-/tree/master/2942-find-words-containing-character) |
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/destructorKing/LeetCode-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/destructorKing/LeetCode-/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/destructorKing/LeetCode-/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/destructorKing/LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/destructorKing/LeetCode-/tree/master/1657-determine-if-two-strings-are-close) |
+| [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/destructorKing/LeetCode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/destructorKing/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/destructorKing/LeetCode-/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/destructorKing/LeetCode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/destructorKing/LeetCode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/destructorKing/LeetCode-/tree/master/3731-find-missing-elements) |
