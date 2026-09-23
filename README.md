@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/destructorKing/LeetCode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/destructorKing/LeetCode-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/destructorKing/LeetCode-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/destructorKing/LeetCode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/destructorKing/LeetCode-/tree/master/0371-sum-of-two-integers) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/destructorKing/LeetCode-/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 ## Enumeration
 |  |
@@ -530,4 +532,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/destructorKing/LeetCode-/tree/master/0229-majority-element-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/destructorKing/LeetCode-/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/destructorKing/LeetCode-/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/destructorKing/LeetCode-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/destructorKing/LeetCode-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
