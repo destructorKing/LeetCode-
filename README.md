@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/destructorKing/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/destructorKing/LeetCode-/tree/master/1108-defanging-an-ip-address) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/destructorKing/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1528-shuffle-string](https://github.com/destructorKing/LeetCode-/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/destructorKing/LeetCode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/destructorKing/LeetCode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/destructorKing/LeetCode-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/destructorKing/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/destructorKing/LeetCode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
@@ -562,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/destructorKing/LeetCode-/tree/master/0292-nim-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/destructorKing/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
