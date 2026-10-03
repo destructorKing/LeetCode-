@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/destructorKing/LeetCode-/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/destructorKing/LeetCode-/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/destructorKing/LeetCode-/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/destructorKing/LeetCode-/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/destructorKing/LeetCode-/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/destructorKing/LeetCode-/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/destructorKing/LeetCode-/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
