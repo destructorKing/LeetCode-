@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/destructorKing/LeetCode-/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/destructorKing/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/destructorKing/LeetCode-/tree/master/0705-design-hashset) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/destructorKing/LeetCode-/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/destructorKing/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/destructorKing/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
