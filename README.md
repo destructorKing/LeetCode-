@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/destructorKing/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/destructorKing/LeetCode-/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/destructorKing/LeetCode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/destructorKing/LeetCode-/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2085-count-common-words-with-one-occurrence](https://github.com/destructorKing/LeetCode-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/destructorKing/LeetCode-/tree/master/2103-rings-and-rods) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/destructorKing/LeetCode-/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/destructorKing/LeetCode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/destructorKing/LeetCode-/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/destructorKing/LeetCode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/destructorKing/LeetCode-/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/destructorKing/LeetCode-/tree/master/1672-richest-customer-wealth) |
+| [2352-equal-row-and-column-pairs](https://github.com/destructorKing/LeetCode-/tree/master/2352-equal-row-and-column-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
