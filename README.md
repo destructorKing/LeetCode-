@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/destructorKing/LeetCode-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/destructorKing/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/destructorKing/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/destructorKing/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2062-count-vowel-substrings-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/destructorKing/LeetCode-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/destructorKing/LeetCode-/tree/master/2103-rings-and-rods) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/destructorKing/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/destructorKing/LeetCode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/destructorKing/LeetCode-/tree/master/2129-capitalize-the-title) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-max-number-of-k-sum-pairs](https://github.com/destructorKing/LeetCode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/destructorKing/LeetCode-/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/destructorKing/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
