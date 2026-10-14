@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/destructorKing/LeetCode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/destructorKing/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/destructorKing/LeetCode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/destructorKing/LeetCode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/destructorKing/LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/destructorKing/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/destructorKing/LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/destructorKing/LeetCode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/destructorKing/LeetCode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/destructorKing/LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
