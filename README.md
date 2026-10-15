@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2255-count-prefixes-of-a-given-string](https://github.com/destructorKing/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/destructorKing/LeetCode-/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/destructorKing/LeetCode-/tree/master/2315-count-asterisks) |
+| [2325-decode-the-message](https://github.com/destructorKing/LeetCode-/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2085-count-common-words-with-one-occurrence](https://github.com/destructorKing/LeetCode-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/destructorKing/LeetCode-/tree/master/2103-rings-and-rods) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2325-decode-the-message](https://github.com/destructorKing/LeetCode-/tree/master/2325-decode-the-message) |
 | [2352-equal-row-and-column-pairs](https://github.com/destructorKing/LeetCode-/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/destructorKing/LeetCode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/destructorKing/LeetCode-/tree/master/2404-most-frequent-even-element) |
