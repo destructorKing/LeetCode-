@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/destructorKing/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/destructorKing/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/destructorKing/LeetCode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/destructorKing/LeetCode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/destructorKing/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Memoization
 |  |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/destructorKing/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/destructorKing/LeetCode-/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/destructorKing/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/destructorKing/LeetCode-/tree/master/1732-find-the-highest-altitude) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/destructorKing/LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Boyer–Moore Majority Vote Algorithm
