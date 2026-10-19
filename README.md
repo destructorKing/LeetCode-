@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/destructorKing/LeetCode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/destructorKing/LeetCode-/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/destructorKing/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/destructorKing/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/destructorKing/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/destructorKing/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/destructorKing/LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/destructorKing/LeetCode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/destructorKing/LeetCode-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/destructorKing/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/destructorKing/LeetCode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/destructorKing/LeetCode-/tree/master/3727-maximum-alternating-sum-of-squares) |
