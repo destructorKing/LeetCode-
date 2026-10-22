@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/destructorKing/LeetCode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/destructorKing/LeetCode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/destructorKing/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/destructorKing/LeetCode-/tree/master/0412-fizz-buzz) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/destructorKing/LeetCode-/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/destructorKing/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/destructorKing/LeetCode-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/destructorKing/LeetCode-/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/destructorKing/LeetCode-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/destructorKing/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1486-xor-operation-in-an-array) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/destructorKing/LeetCode-/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/destructorKing/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0705-design-hashset](https://github.com/destructorKing/LeetCode-/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/destructorKing/LeetCode-/tree/master/0771-jewels-and-stones) |
