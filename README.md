@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/destructorKing/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/destructorKing/LeetCode-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/destructorKing/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/destructorKing/LeetCode-/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/destructorKing/LeetCode-/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/destructorKing/LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/destructorKing/LeetCode-/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/destructorKing/LeetCode-/tree/master/0796-rotate-string) |
 ## Game Theory
 |  |
@@ -721,4 +723,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/destructorKing/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/destructorKing/LeetCode-/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/destructorKing/LeetCode-/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
