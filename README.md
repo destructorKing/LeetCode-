@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/destructorKing/LeetCode-/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/destructorKing/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/destructorKing/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/destructorKing/LeetCode-/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/destructorKing/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/destructorKing/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/destructorKing/LeetCode-/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/destructorKing/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/destructorKing/LeetCode-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/destructorKing/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/destructorKing/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/destructorKing/LeetCode-/tree/master/0856-score-of-parentheses) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/destructorKing/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/destructorKing/LeetCode-/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/destructorKing/LeetCode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Merge Sort
