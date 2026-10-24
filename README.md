@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/destructorKing/LeetCode-/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/destructorKing/LeetCode-/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/destructorKing/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/destructorKing/LeetCode-/tree/master/0896-monotonic-array) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/destructorKing/LeetCode-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/destructorKing/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/destructorKing/LeetCode-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/destructorKing/LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/destructorKing/LeetCode-/tree/master/1021-remove-outermost-parentheses) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/destructorKing/LeetCode-/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/destructorKing/LeetCode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Merge Sort
 |  |
