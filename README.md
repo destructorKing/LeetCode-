@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2315-count-asterisks](https://github.com/destructorKing/LeetCode-/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/destructorKing/LeetCode-/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/destructorKing/LeetCode-/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/destructorKing/LeetCode-/tree/master/2942-find-words-containing-character) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/destructorKing/LeetCode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/destructorKing/LeetCode-/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/destructorKing/LeetCode-/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/destructorKing/LeetCode-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/destructorKing/LeetCode-/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/destructorKing/LeetCode-/tree/master/2544-alternating-digit-sum) |
