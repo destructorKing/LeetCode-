@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/destructorKing/LeetCode-/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/destructorKing/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/destructorKing/LeetCode-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/destructorKing/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/destructorKing/LeetCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/destructorKing/LeetCode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/destructorKing/LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/destructorKing/LeetCode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/destructorKing/LeetCode-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1859-sorting-the-sentence](https://github.com/destructorKing/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/destructorKing/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/destructorKing/LeetCode-/tree/master/3536-maximum-product-of-two-digits) |
@@ -756,4 +758,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/destructorKing/LeetCode-/tree/master/0459-repeated-substring-pattern) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/destructorKing/LeetCode-/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
