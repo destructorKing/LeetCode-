@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/destructorKing/LeetCode-/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/destructorKing/LeetCode-/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/destructorKing/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/destructorKing/LeetCode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/destructorKing/LeetCode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/destructorKing/LeetCode-/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/destructorKing/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/destructorKing/LeetCode-/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/destructorKing/LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/destructorKing/LeetCode-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -761,5 +763,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/destructorKing/LeetCode-/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/destructorKing/LeetCode-/tree/master/1859-sorting-the-sentence) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/destructorKing/LeetCode-/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
