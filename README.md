@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/destructorKing/LeetCode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/destructorKing/LeetCode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/destructorKing/LeetCode-/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/destructorKing/LeetCode-/tree/master/0485-max-consecutive-ones) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/destructorKing/LeetCode-/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/destructorKing/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/destructorKing/LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -785,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/destructorKing/LeetCode-/tree/master/1122-relative-sort-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
