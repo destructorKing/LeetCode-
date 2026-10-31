@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/destructorKing/LeetCode-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/destructorKing/LeetCode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/destructorKing/LeetCode-/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/destructorKing/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/destructorKing/LeetCode-/tree/master/0412-fizz-buzz) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/destructorKing/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
+| [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0872-leaf-similar-trees](https://github.com/destructorKing/LeetCode-/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/destructorKing/LeetCode-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/destructorKing/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
+| [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -689,10 +692,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/destructorKing/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/destructorKing/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Design
 |  |
@@ -795,4 +800,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
