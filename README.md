@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/destructorKing/LeetCode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/destructorKing/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/destructorKing/LeetCode-/tree/master/0804-unique-morse-code-words) |
+| [0875-koko-eating-bananas](https://github.com/destructorKing/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/destructorKing/LeetCode-/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/destructorKing/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/destructorKing/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/destructorKing/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
