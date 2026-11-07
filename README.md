@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/destructorKing/LeetCode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/destructorKing/LeetCode-/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/destructorKing/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/destructorKing/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/destructorKing/LeetCode-/tree/master/0443-string-compression) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/destructorKing/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/destructorKing/LeetCode-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/destructorKing/LeetCode-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/destructorKing/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/destructorKing/LeetCode-/tree/master/0735-asteroid-collision) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/destructorKing/LeetCode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/destructorKing/LeetCode-/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/destructorKing/LeetCode-/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/destructorKing/LeetCode-/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
