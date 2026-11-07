@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/destructorKing/LeetCode-/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/destructorKing/LeetCode-/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/destructorKing/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/destructorKing/LeetCode-/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/destructorKing/LeetCode-/tree/master/1720-decode-xored-array) |
