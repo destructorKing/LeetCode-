@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/destructorKing/LeetCode-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/destructorKing/LeetCode-/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/destructorKing/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/destructorKing/LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/destructorKing/LeetCode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/destructorKing/LeetCode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/destructorKing/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0872-leaf-similar-trees](https://github.com/destructorKing/LeetCode-/tree/master/0872-leaf-similar-trees) |
+| [1267-count-servers-that-communicate](https://github.com/destructorKing/LeetCode-/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/destructorKing/LeetCode-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/destructorKing/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
+| [1267-count-servers-that-communicate](https://github.com/destructorKing/LeetCode-/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/destructorKing/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/destructorKing/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/destructorKing/LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/destructorKing/LeetCode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/destructorKing/LeetCode-/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/destructorKing/LeetCode-/tree/master/1748-sum-of-unique-elements) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/destructorKing/LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/destructorKing/LeetCode-/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/destructorKing/LeetCode-/tree/master/2352-equal-row-and-column-pairs) |
 ## Monotonic Stack
@@ -832,4 +837,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/destructorKing/LeetCode-/tree/master/0365-water-and-jug-problem) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/destructorKing/LeetCode-/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
