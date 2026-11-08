@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/destructorKing/LeetCode-/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/destructorKing/LeetCode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/destructorKing/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/destructorKing/LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/destructorKing/LeetCode-/tree/master/1528-shuffle-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/destructorKing/LeetCode-/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/destructorKing/LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/destructorKing/LeetCode-/tree/master/1763-longest-nice-substring) |
 ## Boyer–Moore Majority Vote Algorithm
