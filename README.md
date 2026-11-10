@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/destructorKing/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/destructorKing/LeetCode-/tree/master/2942-find-words-containing-character) |
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/destructorKing/LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/destructorKing/LeetCode-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/destructorKing/LeetCode-/tree/master/3693-climbing-stairs-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/destructorKing/LeetCode-/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/destructorKing/LeetCode-/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/destructorKing/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/destructorKing/LeetCode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/destructorKing/LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/destructorKing/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/destructorKing/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/destructorKing/LeetCode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/destructorKing/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/destructorKing/LeetCode-/tree/master/3866-first-unique-even-element) |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/destructorKing/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/destructorKing/LeetCode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/destructorKing/LeetCode-/tree/master/1882-process-tasks-using-servers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -765,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/destructorKing/LeetCode-/tree/master/1763-longest-nice-substring) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
