@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/destructorKing/LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/destructorKing/LeetCode-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/destructorKing/LeetCode-/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/destructorKing/LeetCode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/destructorKing/LeetCode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/destructorKing/LeetCode-/tree/master/3731-find-missing-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3693-climbing-stairs-ii](https://github.com/destructorKing/LeetCode-/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
