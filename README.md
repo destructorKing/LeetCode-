@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/destructorKing/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/destructorKing/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/destructorKing/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/destructorKing/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/destructorKing/LeetCode-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/destructorKing/LeetCode-/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/destructorKing/LeetCode-/tree/master/0724-find-pivot-index) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/destructorKing/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/destructorKing/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/destructorKing/LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
