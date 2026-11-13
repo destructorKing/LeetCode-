@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/destructorKing/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/destructorKing/LeetCode-/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/destructorKing/LeetCode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/destructorKing/LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/destructorKing/LeetCode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/destructorKing/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/destructorKing/LeetCode-/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/destructorKing/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/destructorKing/LeetCode-/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/destructorKing/LeetCode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/destructorKing/LeetCode-/tree/master/1763-longest-nice-substring) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -821,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/destructorKing/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -864,4 +870,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/destructorKing/LeetCode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
