@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/destructorKing/LeetCode-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/destructorKing/LeetCode-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/destructorKing/LeetCode-/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/destructorKing/LeetCode-/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/destructorKing/LeetCode-/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/destructorKing/LeetCode-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2942-find-words-containing-character](https://github.com/destructorKing/LeetCode-/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/destructorKing/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/destructorKing/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/destructorKing/LeetCode-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
