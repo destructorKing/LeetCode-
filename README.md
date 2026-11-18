@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/destructorKing/LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/destructorKing/LeetCode-/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/destructorKing/LeetCode-/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/destructorKing/LeetCode-/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/destructorKing/LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/destructorKing/LeetCode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/destructorKing/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/destructorKing/LeetCode-/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/destructorKing/LeetCode-/tree/master/0520-detect-capital) |
+| [0649-dota2-senate](https://github.com/destructorKing/LeetCode-/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/destructorKing/LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/destructorKing/LeetCode-/tree/master/0709-to-lower-case) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/destructorKing/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/destructorKing/LeetCode-/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/destructorKing/LeetCode-/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/destructorKing/LeetCode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
