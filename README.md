@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/destructorKing/LeetCode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/destructorKing/LeetCode-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/destructorKing/LeetCode-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/destructorKing/LeetCode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/destructorKing/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/destructorKing/LeetCode-/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/destructorKing/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/destructorKing/LeetCode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/destructorKing/LeetCode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/destructorKing/LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/destructorKing/LeetCode-/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/destructorKing/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/destructorKing/LeetCode-/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/destructorKing/LeetCode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/destructorKing/LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1925-count-square-sum-triples](https://github.com/destructorKing/LeetCode-/tree/master/1925-count-square-sum-triples) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/destructorKing/LeetCode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/destructorKing/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/destructorKing/LeetCode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/destructorKing/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Interactive
 |  |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/destructorKing/LeetCode-/tree/master/1763-longest-nice-substring) |
 | [3364-minimum-positive-sum-subarray](https://github.com/destructorKing/LeetCode-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/destructorKing/LeetCode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/destructorKing/LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/destructorKing/LeetCode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Boyer–Moore Majority Vote Algorithm
