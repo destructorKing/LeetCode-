@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/destructorKing/LeetCode-/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/destructorKing/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/destructorKing/LeetCode-/tree/master/0877-stone-game) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/destructorKing/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/destructorKing/LeetCode-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/destructorKing/LeetCode-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/destructorKing/LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/destructorKing/LeetCode-/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/destructorKing/LeetCode-/tree/master/2236-root-equals-sum-of-children) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/destructorKing/LeetCode-/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0872-leaf-similar-trees](https://github.com/destructorKing/LeetCode-/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/destructorKing/LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/destructorKing/LeetCode-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/destructorKing/LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/destructorKing/LeetCode-/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/destructorKing/LeetCode-/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
@@ -931,4 +935,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/destructorKing/LeetCode-/tree/master/3934-smallest-unique-subarray) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/destructorKing/LeetCode-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
