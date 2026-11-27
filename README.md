@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/destructorKing/LeetCode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/destructorKing/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/destructorKing/LeetCode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/destructorKing/LeetCode-/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/destructorKing/LeetCode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/destructorKing/LeetCode-/tree/master/2404-most-frequent-even-element) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/destructorKing/LeetCode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/destructorKing/LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/destructorKing/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/destructorKing/LeetCode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3934-smallest-unique-subarray](https://github.com/destructorKing/LeetCode-/tree/master/3934-smallest-unique-subarray) |
 ## Memoization
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/destructorKing/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/destructorKing/LeetCode-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/destructorKing/LeetCode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/destructorKing/LeetCode-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-max-number-of-k-sum-pairs](https://github.com/destructorKing/LeetCode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1859-sorting-the-sentence](https://github.com/destructorKing/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/destructorKing/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/destructorKing/LeetCode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/destructorKing/LeetCode-/tree/master/2418-sort-the-people) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/destructorKing/LeetCode-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/destructorKing/LeetCode-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
